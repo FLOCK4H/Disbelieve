@@ -4,6 +4,8 @@
 
 </div>
 
+> [!NOTE]
+> This project is open-sourced, and completely free of any charges, or transaction fees.
 
 # Disbelieve
 
