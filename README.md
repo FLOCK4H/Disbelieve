@@ -9,6 +9,7 @@
 
 # Disbelieve
 
+Auto-trade tokens released via [Believe](https://believe.app). </br>
 Believe platform uses **Meteora Dynamic Bonding Curve** market to create tokens for users' projects. 
 Fortunately, tokens released on believe end with `BLV`, and are also minted by `Believe: Token Authority` - this allows for easy identification of new tokens.
 Snipe, scalp, trade, and more... as soon as a new token is released.
