@@ -69,7 +69,7 @@ $ disbelieve
 
 ![image](https://github.com/user-attachments/assets/720cdccb-e5e0-4066-b80a-d2c50e65c1b4)
 
-**That's it, you can start trading.**
+**That's it, wishing you a 1000x on your next coin.**
 
 # Contact
 
