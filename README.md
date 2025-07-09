@@ -16,7 +16,7 @@ Snipe, scalp, trade, and more... as soon as a new token is released.
 
 # Features
 
-- Automatically Buy & Sell -> fresh tokens released via Believe platform
+- Automatically Buy & Sell
 - Speed: Local transaction construction, zero reliance on routers
 - Real-time price monitoring
 - Easy config system
