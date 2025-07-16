@@ -14,6 +14,10 @@ Believe platform uses **Meteora Dynamic Bonding Curve** market to create tokens 
 Fortunately, tokens released on believe end with `BLV`, and are also minted by `Believe: Token Authority` - this allows for easy identification of new tokens.
 Snipe, scalp, trade, and more... as soon as a new token is released.
 
+**Default parameters in Disbelieve should be updated by the user,** market changes dynamically and can change in a matter of an hour - meaning, there is no room for defaults.
+
+Always assert your **.env** config is adjusted to current market conditions. 
+
 # Features
 
 - Automatically Buy & Sell
